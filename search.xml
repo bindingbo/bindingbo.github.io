@@ -165,31 +165,9 @@
     
     
     <entry>
-      <title>友人帐</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>moves</title>
       <link href="/moves/index.html"/>
       <url>/moves/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>university</title>
-      <link href="/university/index.html"/>
-      <url>/university/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -209,20 +187,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/musics/index.html"/>
-      <url>/musics/index.html</url>
-      
-        <content type="html"><![CDATA[<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> </p><p><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> </p><p><script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script><br>    <div id="aplayer-OlIOTMVf" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"></div></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>works</title>
-      <link href="/works/index.html"/>
-      <url>/works/index.html</url>
+      <title>友人帐</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -234,6 +201,39 @@
       <title>tattoos</title>
       <link href="/tattoos/index.html"/>
       <url>/tattoos/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/musics/index.html"/>
+      <url>/musics/index.html</url>
+      
+        <content type="html"><![CDATA[<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> </p><p><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> </p><p><script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script><br>    <div id="aplayer-BhRawrUj" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"></div></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>university</title>
+      <link href="/university/index.html"/>
+      <url>/university/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>works</title>
+      <link href="/works/index.html"/>
+      <url>/works/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
